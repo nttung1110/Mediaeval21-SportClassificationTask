@@ -3,6 +3,7 @@
 This is the official repository for our best run in [Mediaeval Challenge-Sport Classification Task](https://multimediaeval.github.io/editions/2021/tasks/sportsvideo/).
 Our solution for the problem consists of two stage: individual classification for each component of raw labels, and conditional probability model for producing final results.
 Here is the general pipeline of our method.
+![General Pipeline](/MMAction-based-Pipeline.png)
 
 The method was ranked 2nd place in the leaderboard of the challenge.
 
